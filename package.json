@@ -1,0 +1,16 @@
+{
+  "name": "exercise2",
+  "version": "1.0.0",
+  "description": "segundo-ejercicio",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "nodemon index.js"
+  },
+  "author": "Nicolas Caceres Latorre",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  }
+}

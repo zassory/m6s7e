@@ -1,0 +1,14 @@
+{
+  "123123123": {
+    "marca": "suzuki",
+    "modelo": "ignis 2018",
+    "anio": "2018",
+    "puertas": 5
+  },
+  "0b25a1fa-d1d6-407b-a2af-0124147e660d": {
+    "marca": "chery",
+    "modelo": "beat",
+    "anio": "2016",
+    "puertas": 5
+  }
+}
